@@ -1,1 +1,1 @@
-# Fake-Twitter-msg-Detection
+# Fake-Tweet-Detection
