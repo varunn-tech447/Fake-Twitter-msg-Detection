@@ -157,14 +157,6 @@ This README describes the project presented in the accompanying project
 presentation. Add the implementation files, dataset information,
 notebooks, and screenshots to this repository as they become available.
 
-## Running the Project
-
-The presentation does not specify a programming language, dependency
-list, source-code structure, dataset download location, or execution
-commands. Therefore, installation and run instructions are not included
-here. Update this section once the implementation and its environment
-details are added to the repository.
-
 ## Disclaimer
 
 This project is intended for academic exploration of misinformation
